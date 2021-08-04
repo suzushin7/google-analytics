@@ -1,4 +1,6 @@
 <!--
+Author: Shingo Suzuki (@suzushin7)
+
 Please input your information at corresponding positions.
 【1】: Your IP Address
 【2】: Your 測定ID (Sokutei ID)
